@@ -1,4 +1,4 @@
-#RADD [![Build Status](https://travis-ci.org/jesalg/RADD.png?branch=master)](https://travis-ci.org/jesalg/RADD)
+#RADD [![Build Status](https://www.codeship.io/projects/f219abe0-9293-0131-38e9-0a082fc3cd6a/status)](https://www.codeship.io/projects/f219abe0-9293-0131-38e9-0a082fc3cd6a/)
 
 A basic example of how to use Rails, Devise and Angular.js in conjunction. 
 
